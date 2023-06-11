@@ -18,8 +18,9 @@ https://github.com/VivekTailor19/locator/assets/119835214/0701f3a9-c616-4077-812
 ## Google_Map
 
 <p>
+<img src = "https://github.com/VivekTailor19/locator/assets/119835214/da50ca56-608b-4f48-89a2-5d78f0817920" height = "50%" width = "30%"> 
+<img src = "https://github.com/VivekTailor19/locator/assets/119835214/4ece0452-00ec-4ea3-a45b-b2bd8ad55daa" height = "50%" width = "30%"> 
 <img src = "https://github.com/VivekTailor19/locator/assets/119835214/a904dfc9-61e3-4859-a7e0-656b04e6272d" height = "50%" width = "30%">  
-<img src = "https://github.com/VivekTailor19/locator/assets/119835214/da50ca56-608b-4f48-89a2-5d78f0817920" height = "50%" width = "30%">  
 <img src = "https://github.com/VivekTailor19/locator/assets/119835214/6a7324c3-f4b0-4663-a046-20839105c508" height = "50%" width = "30%">  
-<img src = "https://github.com/VivekTailor19/locator/assets/119835214/4ece0452-00ec-4ea3-a45b-b2bd8ad55daa" height = "50%" width = "30%">  
+ 
 </p>
