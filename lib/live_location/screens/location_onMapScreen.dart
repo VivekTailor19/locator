@@ -90,6 +90,8 @@ class _Location_HomeScreenState extends State<Location_HomeScreen> {
                 markerId: const MarkerId("marker1"),
                 position: LatLng(control.lat.value, control.long.value),
                 draggable: false,
+                infoWindow: InfoWindow(title: "Hello"),
+
               ),
             },
             initialCameraPosition: CameraPosition(
