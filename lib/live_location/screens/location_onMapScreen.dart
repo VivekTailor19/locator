@@ -38,12 +38,7 @@ class _Location_HomeScreenState extends State<Location_HomeScreen> {
           backgroundColor: Color(0xff118FF5),
           elevation: 0,
           leading: Text(""),
-          // leading: IconButton(icon: Icon(Icons.arrow_back_ios_new),
-          //   iconSize: 20.sp,color: Colors.white,
-          //   onPressed: () {
-          //       Get.back();
-          //     },
-          // ),
+          
           title: Text(
             "Google Maps",
             style: TextStyle(
